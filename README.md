@@ -8,7 +8,7 @@ With over 5 years of experience in full-stack development and cloud engineering,
 ## 🔭 Current Focus
 - Building cloud-native applications on **Azure** and **AWS**.
 - Developing **serverless microservices** using **AWS Lambda**, **API Gateway**, and **DynamoDB**.
-- Designing full-stack solutions with **.NET Core**, **Angular**, and **Entity Framework**.
+- Designing full-stack solutions with **Java**, **.NET Core**, **Angular**, and **Entity Framework**.
 - Migrating and optimizing on-prem workloads to **cloud infrastructure**.
 - Implementing **CI/CD pipelines** using **Azure DevOps**.
 
@@ -24,7 +24,7 @@ With over 5 years of experience in full-stack development and cloud engineering,
 ## 💼 Professional Experience
 - **Senior AWS Microservices Engineer**  
   Expert in designing and deploying serverless applications, ensuring high availability and performance.
-- **Data Engineer at TCS**  
+- **Data Engineer at Accenture**  
   Focused on **cloud transformation** strategies, leveraging services like **AWS Redshift**, **S3**, and **IAM**.
 - **Full Stack Developer**  
   Delivered scalable applications using **C#, .NET Core**, and front-end frameworks like **Angular**.
@@ -43,7 +43,7 @@ With over 5 years of experience in full-stack development and cloud engineering,
 ---
 
 ## 👯 I'm Looking to Collaborate On
-- Full-stack projects utilizing **C# and .NET technologies**.
+- Full-stack projects utilizing **Java** **Python** **C# and .NET technologies**.
 - Cloud-native applications using **serverless architectures**.
 - Open-source projects that drive **data analytics** and **automation**.
 
