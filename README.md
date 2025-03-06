@@ -1,6 +1,6 @@
-# **𝙎𝙐𝙈𝘼𝙉𝙏𝙃 𝙍𝙀𝘿𝘿𝙔 𝘽𝙐𝙎𝙄𝙍𝙀𝘿𝘿𝙔** 💻👋  
-**👨‍💻 Full-Stack Developer | 🌐 Cloud Data Engineer | ☁️ AWS & Azure Specialist**  
+# **𝙎𝙐𝙈𝘼𝙉𝙏𝙃 𝙍𝙀𝘿𝘿𝙔 𝘽𝙐𝙎𝙄𝙍𝙀𝘿𝘿𝙔** 💻👋               <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthbusireddy9-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthbusireddy9-dev" /> </p>
 
+**👨‍💻 Full-Stack Developer | 🌐 Cloud Data Engineer | ☁️ AWS & Azure Specialist**  
 ---
 
 ## 🚀 **Core Competencies & Technical Skills**  
